@@ -2,6 +2,8 @@
 int sum(int,int);
 double sum(double,double);
 short sum(short,short);
+String concat(string, string);
+Char getChar(int,String);
 void main()
 {
    //goes some code here...
@@ -18,6 +20,15 @@ double sum(double a, double b)
 short sum(short a, short b)
 {
  //adding two shorts
+}
+
+String concat(String s1, String s2)
+{
+  //code for concatinate
+}
+Char getcahr(int n, String s)
+{
+  //return nth char
 }
 
 
