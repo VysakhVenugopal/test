@@ -2,6 +2,7 @@
 int sum(int,int);
 float sum(float,float);
 double sum(double,double);
+short sum(short,short);
 void main()
 {
    //goes some code here...
@@ -19,4 +20,9 @@ float sum(float q, float w)
 {
   //adding two floats
 }
+short sum(short a, short b)
+{
+ //adding two shorts
+}
+
 
