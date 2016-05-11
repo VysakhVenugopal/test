@@ -19,6 +19,8 @@ double sum(double a, double b)
 float sum(float q, float w)
 {
   //adding two floats
+  //improving float functions
+  //hello
 }
 short sum(short a, short b)
 {
