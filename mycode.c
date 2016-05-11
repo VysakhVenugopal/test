@@ -12,5 +12,10 @@ int sum(int a, int b)
 }
 double sum(double a, double b)
 {
+<<<<<<< HEAD
  // adding two doubles
+=======
+ // adding float a and b
+ //improving float function
+>>>>>>> myfloatbranch
 }
