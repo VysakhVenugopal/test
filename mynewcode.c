@@ -17,6 +17,15 @@ double sum(double a, double b)
 {
  // adding two doubles
 }
+<<<<<<< HEAD
+=======
+float sum(float q, float w)
+{
+  //adding two floats
+  //improving float functions
+  //hello
+}
+>>>>>>> mynewbranch
 short sum(short a, short b)
 {
  //adding two shorts
